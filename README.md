@@ -1,5 +1,4 @@
-## Sorting-Algorithms
-Sorting algorithms learned through java. 
+## Sorting algorithms learned through java. 
 ---
 # Recursive Quick Sort Algorithm
 It works as follows:
